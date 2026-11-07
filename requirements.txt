@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+reportlab
+python-docx
+python-pptx
+gtts
+arabic-reshaper
+python-bidi
